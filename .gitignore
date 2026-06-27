@@ -1,0 +1,18 @@
+# Generated data
+measurements.txt
+*.txt.gz
+
+# Java build output
+out/
+*.class
+
+# Tooling
+main.dSYM
+.direnv/
+.result
+result
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
